@@ -1,0 +1,8 @@
+Author:Nguyen Gia Bach(BachBone or Ng.JaBach)                              
+Start date: 17:26:15, Monday 13/01/2020.                                   
+End date:                                                                  
+Quick Manual                                                               
+-Use a,w,s,d as controller.                                                
+-Complete all Levels to unlock new challenges!                             
+There are some hidden keys or easter eggs waiting for you to be discovered!
+
